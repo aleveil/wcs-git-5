@@ -1,4 +1,5 @@
 # wcs-git-5
+LOCAL
 
 quelques lignes
 de texte
